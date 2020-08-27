@@ -21,5 +21,5 @@
 | 17      | 444.825   | W7SRZ, Seattle, Northwest Hospital |
 | 18      | 443.550   | W7SRZ, Seattle, Beacon Hill        |
 | 19      | 441.800   | W7AW, Seattle                      |
-| 20      | 444.425   | WW7SEA, Seattle, KOMO TV Tower     |
+| 20      | 467.7125  | FRS 14 / Slone                     |
 
